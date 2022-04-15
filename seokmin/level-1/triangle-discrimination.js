@@ -11,24 +11,42 @@
  * 가장 긴 변의 길이가 다른 두 변의 길이의 합보다 작아야한다.
  */
 
-/** SUDO
+/** SUDO.1
  * 1. rest parameter로 매개변수를 받는다.
  * 2. 가장 긴 변의 길이를 구한다.
  * 3. rest배열의 길이만큼 반복하면서 다른 두 변의 길이의 합을 구한다.
  * 4. 가장 긴 변의 길이가 다른 두 변의 길이의 합보다 작으면 YES, 크다면 NO를 return한다.
  */
 
-const solution = (...rest) => {
+const solutionA = (...rest) => {
   let sum = 0;
 
-  const maxNumber = Math.max(...rest);
+  const maxLength = Math.max(...rest);
 
   for (let i = 0; i < rest.length; i++) {
-    if (maxNumber > rest[i]) sum += rest[i];
+    if (maxLength > rest[i]) sum += rest[i];
   }
 
-  return maxNumber < sum ? 'YES' : 'NO';
+  return maxLength < sum ? 'YES' : 'NO';
 };
 
-const test = solution(13, 33, 17);
-console.log(test);
+const testA = solutionA(13, 33, 17);
+console.log(testA);
+
+/** SUDO.2
+ * 1. 매개변수로 받은 세 변의 길이를 전부 더한다.
+ * 2. 매개변수로 받은 세 변의 길이의 최대값을 구한다.
+ * 3. 1번에서 구한 값 - 2번에서 구한 값 = 최대 길이의 변을 제외한 나머지 두 변의 길이
+ * 4. 2번에서 구한 값 < 3번에서 구한 값 ? 'YES' : 'NO'
+ */
+
+const solutionB = (A, B, C) => {
+  const totalSum = A + B + C;
+  const maxLength = Math.max(A, B, C);
+  const otherLength = totalSum - maxLength;
+
+  return maxLength < otherLength ? 'YES' : 'NO';
+};
+
+const testB = solutionB(13, 33, 17);
+console.log(testB);
