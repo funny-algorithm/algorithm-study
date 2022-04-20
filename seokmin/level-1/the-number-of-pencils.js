@@ -29,5 +29,5 @@ const solutionB = (studentCount) => {
   return Math.ceil(studentCount / 12);
 };
 
-const testB = solutionA(25);
+const testB = solutionB(25);
 console.log(testB);
