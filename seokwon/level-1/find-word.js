@@ -11,5 +11,22 @@
  */
 
 function solution(str, word) {
-    
+    let regExp = new RegExp(`${word}`, "g");
+    return str.match(regExp).length;   
 }
+
+function solution2(str, word) {
+    let count = 0;
+    for(let i = 0; i < str.length; i++){
+        if(str[i] === word){
+            count++;
+        }
+    }
+    return count;
+}
+
+let result = solution('COMPUTERPROGRAMMING', 'R');
+console.log(result);
+
+let result2 = solution2('COMPUTERPROGRAMMING', 'R');
+console.log(result2);
