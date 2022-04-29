@@ -19,6 +19,8 @@ function solution(str, c){
             }
         }
     }
+    return answer;
 }
 
 let res = solution('teachermode', 'e')
+console.log(res);
