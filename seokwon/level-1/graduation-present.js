@@ -2,7 +2,7 @@
 // 낮은 값부터 순서대로 반값을 적용해서 더했을때, 입력받은 금액과 같은 값이 나오는 경우의 수를 체크한다.
 
 function solution(N, M, infos) {
-    let answer = 0;
+    let answer = [];
     infos = infos.sort((a, b) => (a[0] + a[1]) - (b[0] + b[1]));
     let flag = false;
     
@@ -19,17 +19,20 @@ function solution(N, M, infos) {
                 let sum = infos[j][0] + infos[j][1];
                 remain -= sum;
                 count++;
+                if(remain < 0 ){
+                    answer.push(count - 1);
+                    break;
+                }
                 if(remain === 0){
-                    answer = count;
+                    answer.push(count);
                     flag= true;
                     break;
                 }   
             }
         }
         if(flag) break;
-    }
-    return answer;
+    }    
+    return Math.max(...answer);
 }
 
 let res = solution(5, 28, [[6, 6], [2, 2], [4, 3], [4, 5], [10, 3]]);
-console.log(res);
