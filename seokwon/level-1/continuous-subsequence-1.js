@@ -3,12 +3,14 @@ function solution(N, M, arr) {
     let end = 0;
     for(let i = 0; i < N; i++){
         let sum = arr[i];
+        
         while(end < N){
-            sum += arr[end];
+            if(i !== end){
+                sum += arr[end];
+            }
             if(sum < M){
                 end++;
-            }
-            if(sum === N){
+            }else if(sum === N){
                 answer++;
                 break;
             }
@@ -19,4 +21,5 @@ function solution(N, M, arr) {
 
 
 
-let res = solution(8,6, [1,2,1,3,1,1,1,2]);
+let res = solution(8,6, [2,2,1,3,1,1,1,2]);
+console.log(res);
