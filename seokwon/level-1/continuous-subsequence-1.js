@@ -1,16 +1,20 @@
 function solution(N, M, arr) {
-    let answer = [];
+    let answer = 0;
+    let end = 0;
     for(let i = 0; i < N; i++){
-        for(let j = i+ 1; j < N; j++){
-            let copyArr = [...arr];
-            let slice = copyArr.splice(i, j);
-            let total = slice.reduce((acc, cur) => acc + cur)
-            if(total === M){
-                answer.push(slice);
+        let sum = arr[i];
+        while(end < N){
+            sum += arr[end];
+            if(sum < M){
+                end++;
             }
-            
+            if(sum === N){
+                answer++;
+                break;
+            }
         }
     }
+    return answer;
 }
 
 
