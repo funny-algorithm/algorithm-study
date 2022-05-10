@@ -33,6 +33,37 @@ function solution(N, M, arr) {
 }
 
 
+function newSolution(N, M, arr){
+  let answer = 0;
+  let start = end = 0;
+  let sum = 0;
+  
+  while(end < N){
+    if(sum > M){
+      sum -= arr[start++];
+    }else{
+      sum += arr[end++];
+    }
 
-let res = solution(8,6, [1,2,1,3,1,1,1,2]);
-console.log(res);
+    if(sum === M){
+      answer++;
+    }
+  }
+
+  return answer;
+}
+
+
+  
+
+
+
+console.time('test2');
+let res2 = solution(8,6, [1,2,1,3,1,1,1,2]);
+console.log(res2);
+console.timeEnd('test2');
+
+console.time('test2');
+let res3 = newSolution(8,6, [1,2,1,3,1,1,1,2]);
+console.log(res3);
+console.timeEnd('test2');
