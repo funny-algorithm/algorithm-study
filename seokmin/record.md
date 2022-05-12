@@ -123,3 +123,4 @@
 - 합이 같은 부분집합
 - 바둑이 승차
 - 최대점수
+- [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)
