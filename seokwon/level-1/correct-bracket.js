@@ -5,6 +5,9 @@ function solution(s){
         if(b === '('){
             stack.push('(');
         }else{
+            if(stack.length === 0){
+                return "NO";
+            }
             stack.pop();
         }
     }
