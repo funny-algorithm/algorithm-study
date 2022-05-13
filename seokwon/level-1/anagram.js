@@ -1,3 +1,4 @@
+//코드의 문제점 두 문자열의 길이가 다르면 정상동작 하지 않게된다.
 function solution(str1, str2){
     let store1 = new Map();
     let store2 = new Map();
