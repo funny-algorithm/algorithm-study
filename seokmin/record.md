@@ -133,3 +133,7 @@
 ### 2022-05-14 (토)
 
 - 중복 순열
+
+### 2022-05-15 (일)
+
+- [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748?language=javascript)
