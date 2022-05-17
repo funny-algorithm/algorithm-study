@@ -142,3 +142,8 @@
 
 - 동전 교환
 - [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)
+
+### 2022-05-17 (화)
+
+- [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)
+- [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)
