@@ -151,3 +151,7 @@
 ### 2022-05-18 (수)
 
 - [소수 구하기](https://programmers.co.kr/learn/courses/30/lessons/12977)
+
+### 2022-05-19 (목)
+
+- [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)
