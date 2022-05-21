@@ -159,3 +159,7 @@
 ### 2022-05-20 (금)
 
 - [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)
+
+### 2022-05-21 (토)
+
+- [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)
