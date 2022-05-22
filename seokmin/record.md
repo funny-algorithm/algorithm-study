@@ -163,3 +163,7 @@
 ### 2022-05-21 (토)
 
 - [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)
+
+### 2022-05-22 (일)
+
+- [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)
