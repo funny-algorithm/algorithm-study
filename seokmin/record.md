@@ -167,3 +167,7 @@
 ### 2022-05-22 (일)
 
 - [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)
+
+### 2022-05-24 (화)
+
+- [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)
