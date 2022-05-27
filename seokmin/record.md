@@ -179,3 +179,7 @@
 ### 2022-05-26 (목)
 
 - [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)
+
+### 2022-05-27 (금)
+
+- [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)
