@@ -183,3 +183,7 @@
 ### 2022-05-27 (금)
 
 - [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)
+
+### 2022-05-30 (토)
+
+- [예산](https://programmers.co.kr/learn/courses/30/lessons/12982)
