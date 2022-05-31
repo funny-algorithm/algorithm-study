@@ -184,6 +184,10 @@
 
 - [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)
 
-### 2022-05-30 (토)
+### 2022-05-30 (월)
 
 - [예산](https://programmers.co.kr/learn/courses/30/lessons/12982)
+
+### 2022-05-31 (화)
+
+- [부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)
