@@ -191,3 +191,7 @@
 ### 2022-05-31 (화)
 
 - [부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)
+
+### 2022-06-02 (목)
+
+- [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)
