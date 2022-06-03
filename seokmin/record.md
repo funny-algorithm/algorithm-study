@@ -195,3 +195,7 @@
 ### 2022-06-02 (목)
 
 - [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)
+
+### 2022-06-03 (금)
+
+- [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)
