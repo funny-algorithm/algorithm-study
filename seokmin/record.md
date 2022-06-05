@@ -203,3 +203,7 @@
 ### 2022-06-04 (토)
 
 - [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)
+
+### 2022-06-05 (일)
+
+- [1차 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
