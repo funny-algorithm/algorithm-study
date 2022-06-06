@@ -207,3 +207,7 @@
 ### 2022-06-05 (일)
 
 - [1차 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
+
+### 2022-06-06 (월)
+
+- [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)
