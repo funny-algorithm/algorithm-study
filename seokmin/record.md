@@ -215,3 +215,7 @@
 ### 2022-06-07 (화)
 
 - [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910)
+
+### 2022-06-08 (수)
+
+- [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954)
