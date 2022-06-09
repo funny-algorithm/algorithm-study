@@ -219,3 +219,7 @@
 ### 2022-06-08 (수)
 
 - [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954)
+
+### 2022-06-09 (목)
+
+- [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)
