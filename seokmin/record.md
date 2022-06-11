@@ -223,3 +223,7 @@
 ### 2022-06-09 (목)
 
 - [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)
+
+### 2022-06-11 (토)
+
+- [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918)
