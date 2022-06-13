@@ -231,3 +231,7 @@
 ### 2022-06-12 (일)
 
 - [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)
+
+### 2022-06-13 (월)
+
+- [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)
