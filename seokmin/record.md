@@ -235,3 +235,7 @@
 ### 2022-06-13 (월)
 
 - [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)
+
+### 2022-06-15 (수)
+
+- [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)
