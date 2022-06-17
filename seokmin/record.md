@@ -239,3 +239,7 @@
 ### 2022-06-15 (수)
 
 - [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)
+
+### 2022-06-17 (금)
+
+- [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)
