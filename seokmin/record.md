@@ -243,3 +243,7 @@
 ### 2022-06-17 (금)
 
 - [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)
+
+### 2022-06-20 (월)
+
+- [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)
