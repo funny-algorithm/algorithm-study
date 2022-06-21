@@ -247,3 +247,7 @@
 ### 2022-06-20 (월)
 
 - [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)
+
+### 2022-06-21 (화)
+
+- [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)
