@@ -251,3 +251,7 @@
 ### 2022-06-21 (화)
 
 - [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)
+
+### 2022-06-22 (수)
+
+- [최소값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)
