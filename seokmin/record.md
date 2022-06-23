@@ -255,3 +255,7 @@
 ### 2022-06-22 (수)
 
 - [최소값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)
+
+### 2022-06-23 (목)
+
+- [최대값과 최소값](https://programmers.co.kr/learn/courses/30/lessons/12939)
