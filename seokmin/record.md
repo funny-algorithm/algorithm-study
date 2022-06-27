@@ -259,3 +259,7 @@
 ### 2022-06-23 (목)
 
 - [최대값과 최소값](https://programmers.co.kr/learn/courses/30/lessons/12939)
+
+### 2022-06-27 (월)
+
+- [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931)
