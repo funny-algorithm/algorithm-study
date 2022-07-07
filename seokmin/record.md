@@ -263,3 +263,7 @@
 ### 2022-06-27 (월)
 
 - [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931)
+
+### 2022-07-07 (목)
+
+- [1차 다트](https://school.programmers.co.kr/learn/courses/30/lessons/17682)
