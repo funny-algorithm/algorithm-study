@@ -267,3 +267,7 @@
 ### 2022-07-07 (목)
 
 - [1차 다트](https://school.programmers.co.kr/learn/courses/30/lessons/17682)
+
+### 2022-07-22 (금)
+
+- [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)
