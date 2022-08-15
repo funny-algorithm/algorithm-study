@@ -271,3 +271,7 @@
 ### 2022-07-22 (금)
 
 - [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)
+
+### 2022-08-16 (화)
+
+- [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888?language=javascript)
