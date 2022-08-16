@@ -275,3 +275,7 @@
 ### 2022-08-16 (화)
 
 - [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888?language=javascript)
+
+### 2022-08-17 (수)
+
+- [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
