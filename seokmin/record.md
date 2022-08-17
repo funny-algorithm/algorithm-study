@@ -279,3 +279,7 @@
 ### 2022-08-17 (수)
 
 - [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
+
+### 2022-08-18 (목)
+
+- [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)
