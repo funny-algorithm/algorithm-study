@@ -283,3 +283,7 @@
 ### 2022-08-18 (목)
 
 - [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)
+
+### 2022-08-19 (금)
+
+- [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)
